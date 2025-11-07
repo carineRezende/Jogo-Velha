@@ -8,7 +8,6 @@ O jogo permite que dois jogadores se alternem entre “X” e “O”, exibindo 
 Além disso, o layout foi personalizado com cores, centralização e estilo uniforme para tornar a interface mais agradável.
 
 ## Tecnologias utilizadas
-
 - React.js
 - Vite
 - JavaScript (ES6+)
@@ -19,7 +18,6 @@ Além disso, o layout foi personalizado com cores, centralização e estilo unif
 ### 1️⃣ Pré-requisitos
 
 Antes de começar, é necessário ter instalado em sua máquina:
-
 - Node.js (versão 18 ou superior)
 - npm (gerenciador de pacotes que vem junto com o Node)
 
@@ -37,11 +35,9 @@ Para criar um novo projeto React com o Vite, use o comando:
 
 ```
 npm create vite@latest
-
 ```
 
 ➡️ Depois disso, o terminal vai te perguntar:
-
 - Nome do projeto
 - Framework (escolha React)
 - Variante (escolha JavaScript)
@@ -51,14 +47,12 @@ Depois, entre na pasta criada:
 
 ```
 cd nome-do-projeto
-
 ```
 
 E instale as dependências:
 
 ```
 npm install
-
 ```
 
 ### 3️⃣ Executar o projeto
@@ -67,7 +61,6 @@ Para rodar o projeto localmente:
 
 ```
 npm run dev
-
 ```
 
 O terminal exibirá um link semelhante a:
@@ -77,7 +70,6 @@ http://localhost:5173
 Abra esse link no navegador para visualizar o jogo funcionando 🎮
 
 ## Principais aprendizados
-
 - Durante o desenvolvimento do projeto, foram praticados os seguintes conceitos:
 - Criação e uso de componentes React.
 - Passagem de informações por meio de props.
