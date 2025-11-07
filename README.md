@@ -24,6 +24,7 @@ Antes de começar, é necessário ter instalado em sua máquina:
 - npm (gerenciador de pacotes que vem junto com o Node)
 
 Para verificar se estão instalados corretamente, execute no terminal:
+
 ```
 node -v
 npm -v
@@ -33,9 +34,12 @@ npm -v
 O Vite é a ferramenta usada para criar e rodar o projeto React de forma rápida e simples.
 
 Para criar um novo projeto React com o Vite, use o comando:
+
 ```
 npm create vite@latest
+
 ```
+
 ➡️ Depois disso, o terminal vai te perguntar:
 
 - Nome do projeto
@@ -45,17 +49,26 @@ npm create vite@latest
 
 Depois, entre na pasta criada:
 
-```cd nome-do-projeto```
+```
+cd nome-do-projeto
+
+```
 
 E instale as dependências:
 
-```npm install```
+```
+npm install
+
+```
 
 ### 3️⃣ Executar o projeto
 
 Para rodar o projeto localmente:
 
-```npm run dev```
+```
+npm run dev
+
+```
 
 O terminal exibirá um link semelhante a:
 
